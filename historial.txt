@@ -1,0 +1,41 @@
+    1  ls
+    2  cd repogit
+    3  ls -la
+    4  cd..
+    5  cd ..
+    6  ls
+    7  cat README
+    8  git clone https://github.com/lionelgonzalo/millicay_vagrant.git
+    9  ls
+   10  cd millicay_vagrant/
+   11  ls
+   12  history
+   13  history > historial.txt
+   14  ls
+   15  cat historial.txt 
+   16  git status
+   17  git add .
+   18  git status
+   19  git commit -m "Mi primer commit"
+   20  git config --global user.email "lionel.gonzalo@hotmail.com"
+   21  git commit -m "Mi primer commit"
+   22  git push
+   23  logout
+   24  ls
+   25  ls -la
+   26  ssh-keygen -t ed25519
+   27  ls
+   28  ls -la
+   29  cd .ssh
+   30  ls
+   31  cat id_ed25519.pub
+   32  cd ..
+   33  ls
+   34  cd repogit
+   35  ls
+   36  git clone git@github.com:lionelgonzalo/millicay_vagrant.git
+   37  ls
+   38  cd millicay_vagrant/
+   39  ls
+   40  history
+   41  history > historial.txt
